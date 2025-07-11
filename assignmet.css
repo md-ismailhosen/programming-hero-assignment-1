@@ -1,0 +1,154 @@
+/**nav style**/
+.back{
+    background-image: url("Hero-bg.png");
+    
+}
+nav{
+    display: flex;
+    text-align: center;
+    justify-content: space-between;
+    padding: 40px;
+    
+}
+/**logo button style**/
+.logo{
+    color: blue;
+}
+/**sign button style **/
+.altitle{
+    text-align: center;
+}
+.button{
+    background-color: blue;
+    font-weight:bold;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+
+}
+/** action part **/
+.action{
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 80px;
+    margin-top: 50px;
+}
+img{
+    margin-top: 10px;
+    height: 160px;
+    width: 160px;
+}
+img{
+     margin-left: 50px;
+}
+
+/**activity style**/
+.users{
+    background-color: rgba(198, 198, 247, 0.755);
+    border-radius:5px rgba(170, 170, 247, 0.755);
+    width: auto;
+    margin-left:60px ;
+    margin-right:60px ;
+}
+h3{
+    text-align: center;
+}
+.user{
+    display: flex;
+    text-align: center;
+    padding-left: 340px;
+}
+.au{
+
+margin-left: 30px;
+}
+
+.aut{
+    font-size: 40px;
+    color: rgb(13, 5, 247);
+}
+p{
+    margin-bottom: 50px;
+}
+
+/**star style**/
+.star{
+    height: 30px;
+    width: 30px;
+    margin-left: 1px;
+}
+
+/**savar image tyle**/
+.title{
+    text-align: center;
+}
+.img{
+    height: 40px;
+    width: 40px;
+    border: 2px solid white;
+    border-radius: 50%;
+    margin-left: 10px;
+}
+
+.avr{
+    display: flex;
+    margin-bottom: 30px;
+}
+
+.flex{
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    padding: 30px;
+    
+}
+.box{
+    
+    box-shadow: 0px 5px 50px 0px rgba(11, 9, 4, 0.873);
+}
+.bos1{
+    
+    box-shadow: 0px 5px 50px 0px #0f0202fc;
+}
+        
+.ready{
+    text-align: center;
+}
+.focus{
+    margin-top: 20px;
+    padding: 20px;
+}
+.big{
+    height:200px ;
+    width: 550px;
+    margin-left: 300px;
+    border-radius: 50% solid rgba(0, 0, 12, 0.979);
+
+}
+.get{
+    background-color: rgba(255, 228, 196, 0.52);
+    
+}
+
+.last{
+    display: flex;
+    background-color: rgba(227, 245, 250, 0.964);
+    justify-content: space-between;
+    height: 300px;
+    width:1050px;
+    margin-left: 10px;
+    margin-top: 30px;
+    padding: 50px;
+}
+
+.lg{
+    text-align: center;
+    font-size: 30px;
+}
+
+.ber{
+    list-style: none;
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
